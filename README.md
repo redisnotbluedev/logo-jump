@@ -3,6 +3,15 @@ A 2D rage platformer made with Godot.
 
 ## Changelog
 
+### Logo Jump v2.3.6
+  - Patched reset skipping
+  - Fixed a problem with music volume
+  - Reworked UI
+  - Combined tree for easy loading
+
+### Logo Jump v2.3.5
+  - Changed update checking URL
+
 ### Logo Jump v2.3.4
   - Added update checking
 
