@@ -3,7 +3,7 @@ A 2D rage platformer made with Godot.
 
 ## Changelog
 
-## Logo Jump v2.3.4
+### Logo Jump v2.3.4
   - Added update checking
 
 ### Logo Jump v2.3.3
